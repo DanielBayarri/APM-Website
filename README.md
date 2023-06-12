@@ -17,6 +17,5 @@ Página web creada con HTML, CSS, Javascript y Jquery
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
 ## Vista previa del proyecto
-Si quieres hechas un vistazo al proyecto, te recomiendo:
 
 ![Captura del proyecto](https://repository-images.githubusercontent.com/652594263/a41e2cef-bf20-444e-a70d-0bdbc8dedb6a)
